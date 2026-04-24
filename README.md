@@ -16,13 +16,14 @@ A blogging platform where users can write, draft, publish, and explore articles 
 - **Styling**: TailwindCSS
 
 ## Project structure
+```
 src/
 ├── components/       # Reusable UI components
 ├── pages/            # Route-level page 
 ├── firebase/         # Firebase config and 
 ├── charts/           
 └── styles/          
-
+```
 ## Stay in touch
 
 - Author - [Adebayo Otomuola](https://linkedin.com/adebayootomuola)
